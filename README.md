@@ -8,7 +8,7 @@ Calcula Fatorial de 0 a 12
 | :label: Tecnologias | Java, Swing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Fatorial/main/telaFatorial.png#vitrinedev)
 
 ## Detalhes do projeto
 
