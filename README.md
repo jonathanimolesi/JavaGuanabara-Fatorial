@@ -1,17 +1,15 @@
-# Nome do meu projeto
+# Tela Fatorial!
 
-Rápida descrição do objetivo de fazer esse projeto
+Calcula Fatorial de 0 a 12
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | Fatorial
+| :label: Tecnologias | Java, Swing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Tela em Swing que setando um valor entre 0 a 12 com Spinner calculamos seu fatorial e mostramos na tela.
